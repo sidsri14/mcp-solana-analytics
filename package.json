@@ -1,0 +1,33 @@
+{
+  "name": "mcp-solana-analytics",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) server providing Solana Pump.fun bonding curve analytics, Raydium CPMM simulation, and smart-money wallet profiling for AI agents",
+  "type": "module",
+  "main": "src/index.ts",
+  "bin": {
+    "mcp-solana-analytics": "src/index.ts"
+  },
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "tsx --test test/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc --noEmit"
+  },
+  "keywords": [
+    "model-context-protocol",
+    "mcp",
+    "mcp-server",
+    "ai-agents",
+    "solana",
+    "pumpfun",
+    "raydium",
+    "dex-analytics"
+  ],
+  "author": "Siddharth Srivastava <sidsri1502@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.23.13",
+    "typescript": "^5.7.2"
+  }
+}
