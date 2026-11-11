@@ -72,4 +72,6 @@ npm run typecheck
 - **Author:** Siddharth Srivastava ([@sidsri14](https://github.com/sidsri14))
 - **Email:** `sidsri1502@gmail.com`
 - **GitHub:** [https://github.com/sidsri14](https://github.com/sidsri14)
+- **Portfolio & Starter Kits:** [https://sidsri14.github.io/](https://sidsri14.github.io/)
+- **Upwork ($60/hr):** [Hire on Upwork](https://www.upwork.com/freelancers/~01f93f1a56b9ef1b8d)
 - **License:** MIT
